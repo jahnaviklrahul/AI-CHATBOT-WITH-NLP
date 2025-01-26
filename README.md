@@ -1,1 +1,23 @@
 # AI-CHATBOT-WITH-NLP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Automated Data Report Generator
+This Python script automates the process of generating a PDF report from a CSV file containing data. It reads the CSV file, performs basic statistical analysis, and then generates a PDF report with summary statistics.
+
+Prerequisites
+Before running this script, make sure you have the following Python libraries installed:
+
+pandas – for data manipulation and analysis
+fpdf – for generating PDF reports
